@@ -1,7 +1,4 @@
 //**********************************
-// COSC 1173 Programming Lab
-// Name: Jacob Douglas
-// Data: 10/25/2024
 // Purpose of your program: Display integer array in reverse
 //**********************************
 
